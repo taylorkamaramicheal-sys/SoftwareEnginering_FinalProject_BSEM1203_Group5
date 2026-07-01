@@ -14,5 +14,21 @@
         "phone": "074027992",
         "is_admin": false,
         "avatar": "purple"
+    },
+    {
+        "username": "Balls",
+        "email": "ballayus2022@gmail.com",
+        "password": "yusballa@@2008",
+        "phone": "072067069",
+        "is_admin": false,
+        "avatar": "purple"
+    },
+    {
+        "username": "Praise Sarah Siafa",
+        "email": "sarahpraise@gmail.com",
+        "password": "123456",
+        "phone": "078864671",
+        "is_admin": false,
+        "avatar": "blue"
     }
 ]

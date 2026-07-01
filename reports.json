@@ -8,5 +8,25 @@
         "description": "Poor managenment of water supply. Water is not pure and people are in expose to sickness and bacteria.",
         "timestamp": "2026-06-24 07:26:11",
         "verified": false
+    },
+    {
+        "id": 2,
+        "email": "ballayus2022@gmail.com",
+        "username": "Balls",
+        "location": "freetown, congocross,L.pond",
+        "status": "unsafe",
+        "description": "Water gives off offel smell",
+        "timestamp": "2026-06-30 16:12:13",
+        "verified": false
+    },
+    {
+        "id": 3,
+        "email": "sarahpraise@gmail.com",
+        "username": "Praise Sarah Siafa",
+        "location": "hill station",
+        "status": "safe",
+        "description": "clean with no odor",
+        "timestamp": "2026-06-30 16:16:16",
+        "verified": false
     }
 ]
